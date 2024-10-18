@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Enemy
+  - Checkpoint
+  - Level Trigger
+  - Bullet
+  - Fall Trigger
+  - Shotgun Drop
+  - Jump Boots
+  - Heart Live
+  - Rifle Drop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2653139647
+    locked: 0
+  - name: Foreground
+    uniqueID: 1477581617
+    locked: 0
+  - name: Player
+    uniqueID: 2145648635
+    locked: 0
+  - name: Ground
+    uniqueID: 3881069159
+    locked: 0

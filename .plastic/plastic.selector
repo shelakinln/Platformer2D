@@ -1,0 +1,4 @@
+repository "Platformer2D@shelakinln@cloud"
+  path "/"
+    br "/main"
+    co "/main"
